@@ -70,6 +70,11 @@ function gambling() {
 }
 }
 
+function erase() {
+    localStorage.clear();
+    location.reload();
+}
+
 function test() {
     blahaj = saved;
 }
