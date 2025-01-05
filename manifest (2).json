@@ -1,0 +1,14 @@
+{
+  "name": "blahaj",
+  "theme_color": "#000000",
+  "background_color": "#a0f3fb",
+  "short_name": "blahaj",
+  "description": "blahaj",
+  "display_override": [
+    "fullscreen",
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "games"
+  ]
+}
