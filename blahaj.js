@@ -138,5 +138,10 @@ function showupgrade() {
     upg.innerHTML = 'Go back to the main menu';
 }
 
+function erase() {
+    localStorage.clear();
+}
+
+
 test();
 updatesmol();
